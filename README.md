@@ -1,2 +1,2 @@
 # LaravelAdministrator
-Laravel administrator dengan adminLTE
+Laravel administrator dengan Gantella
